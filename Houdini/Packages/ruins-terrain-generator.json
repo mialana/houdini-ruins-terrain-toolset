@@ -1,8 +1,8 @@
 {
     "env": [
         {"RTG_ROOT": "/Users/Dev/Projects/houdini-ruins-terrain-generator/"},
-        {"RTG_OTLS": "$RTG_ROOT/Houdini/Packages/otls/"},
+        {"RTG_PACKAGES": "$RTG_ROOT/Houdini/Packages/"},
         {"RTG_TEXTURES": "$RTG_ROOT/Resources/Textures/"}
     ],
-    "hpath": "$RTG_OTLS"
+    "hpath": "$RTG_PACKAGES"
 }
