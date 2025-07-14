@@ -1,0 +1,8 @@
+{
+    "env": [
+        {"RTT_ROOT": "/Users/Dev/Projects/houdini-ruins-terrain-toolset/"},
+        {"RTT_PACKAGES": "$RTT_ROOT/Houdini/Packages/"},
+        {"RTT_TEXTURES": "$RTT_ROOT/Resources/Textures/"}
+    ],
+    "hpath": "$RTT_PACKAGES"
+}
